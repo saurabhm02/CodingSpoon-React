@@ -40,11 +40,12 @@ In this repository, I will be uploading my daily progress and exercises from the
 
 ## Folder Structure
 
-- ###[Day - 1 : Intoduction to JavaScript](./Day%20-%2001[12Jan]/)
-- ###[Day - 2 : Overview of JavaScript](./Day%20-%2002[13Jan]/)
+- [Day - 1 : Intoduction to JavaScript](./Day%20-%2001[12Jan]/)
+- [Day - 2 : Overview of JavaScript](./Day%20-%2002[13Jan]/)
+- [Day - 3 : Introduction to React](./Day%20-%2003[15Jan]/)
 
 ## How to Use
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/saurabhm02/CodingSpoon-React
