@@ -44,6 +44,7 @@ In this repository, I will be uploading my daily progress and exercises from the
 - [Day - 2 : Overview of JavaScript](./Day%20-%2002[13Jan]/)
 - [Day - 3 : Introduction to React](./Day%20-%2003[15Jan]/)
 - [Day - 4 : Advanced concepts of React](./Day%20-%2004[16Jan]/)
+- [Day - 5 : Make a simple React App](./Day%20-%2005[18Jan]/)
 
 ## How to Use
 
