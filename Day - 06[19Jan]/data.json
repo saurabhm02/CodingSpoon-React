@@ -1,0 +1,56 @@
+[
+  {
+    "id": 2,
+    "title": "Loose Fit T-shirt",
+    "price": 499,
+    "rating": 4.6,
+    "brand": "Puma",
+    "category": "Clothings",
+    "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F14%2F8f%2F148fe824b7b44cb4a4f2e632f38a87aa378de7bd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+  },
+  {
+    "id": 3,
+    "title": "OPPOF19",
+    "price": 20999,
+    "rating": 4.3,
+    "brand": "OPPO",
+    "category": "smartphones",
+    "imageUrl": "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Huawei P30",
+    "price": 29999,
+    "rating": 4.09,
+    "brand": "Huawei",
+    "category": "smartphones",
+    "imageUrl": "https://i.dummyjson.com/data/products/5/thumbnail.jpg"
+  },
+  {
+    "id": 5,
+    "title": "MacBook Pro",
+    "price": 124999,
+    "rating": 4.57,
+    "brand": "Apple",
+    "category": "laptops",
+    "imageUrl": "https://i.dummyjson.com/data/products/6/thumbnail.png"
+  },
+  {
+    "id": 6,
+    "title": "Noise venus ANC Buds",
+    "price": 1259,
+    "rating": 4.09,
+    "brand": "Realme",
+    "category": "electronics",
+    "imageUrl": "https://www.gonoise.com/cdn/shop/files/4_b511b4f2-17c4-496f-845d-0d9d8dcf5d02.png?v=1690349630"
+  },
+  {
+    "id": "7",
+    "title": "iphone 12",
+    "price": 64999,
+    "rating": 4.8,
+    "brand": "Apple",
+    "category": "smartphones",
+    "imageUrl": "https://s3no.cashify.in/pd-admin/94ffbdfaeff349d1be0bcf4ba072f8d0.jpg?p=es5sq&s=es"
+  }
+]
