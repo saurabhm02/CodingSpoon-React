@@ -1,6 +1,6 @@
 # React Learning Journey - Day 4
 
-Welcome to Day 4 of your React learning journey with Coding Spoon! In today's session, we covered various advanced React concepts and implemented a simple React application. Below is a summary of the key topics and the code you've worked on:
+Welcome to Day 4 of our React learning journey with Coding Spoon! In today's session, we covered various advanced React concepts and implemented a simple React application. Below is a summary of the key topics and the code we've worked on:
 
 ## Topics Covered:
 
