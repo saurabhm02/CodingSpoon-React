@@ -1,6 +1,6 @@
 # React Learning Journey - Day 6
 
-Welcome to Day 6 of your React learning journey with Coding Spoon! In today's session,we make simple React application for managing a list of products. The application allows users to view a list of products, add new products, edit existing products, and delete products.
+Welcome to Day 6 of our React learning journey with Coding Spoon! In today's session,we make simple React application for managing a list of products. The application allows users to view a list of products, add new products, edit existing products, and delete products.
 
 
 # React Product Management App
