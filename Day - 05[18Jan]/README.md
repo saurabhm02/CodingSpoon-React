@@ -1,6 +1,6 @@
 # React Learning Journey - Day 5
 
-Welcome to Day 5 of your React learning journey with Coding Spoon! In today's session, we covered the implementation of a simple multi-page web application using React and React Router. Below, you'll find an overview of the components and features implemented in our project.
+Welcome to Day 5 of our React learning journey with Coding Spoon! In today's session, we covered the implementation of a simple multi-page web application using React and React Router. Below, you'll find an overview of the components and features implemented in our project.
 
 ## Components
 
