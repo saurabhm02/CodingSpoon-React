@@ -8,6 +8,7 @@ The Coding Spoon React course offered by PEP classes at LPU is designed to provi
 
 - JavaScript Fundamentals
 - introduction of React 
+- intoduction of little bit of Express
 
 ### JavaScript Fundamentals
 
@@ -18,7 +19,7 @@ The Coding Spoon React course offered by PEP classes at LPU is designed to provi
 - Objects
 - Arrays
 - Destructuring
-- mapping
+- Mapping
 - setTimeout and setInterval
 - Understanding asynchronous code
 - Promises
@@ -26,14 +27,39 @@ The Coding Spoon React course offered by PEP classes at LPU is designed to provi
 - Introduction to Babel
 - Configuring Babel for modern JavaScript development
 
-
-### Getting Started with React
-
+### React Basics
 - Introduction to React
 - Setting up a React environment
 - Components and Props
 - State and Lifecycle
 
+### React Advanced Concepts
+- Component Lifecycle Methods
+- React Router for navigation
+- Hierarchical component structure
+- Handling events in React
+- State Management with Hooks
+- Handling errors with Error Boundaries
+
+### Building React Applications
+- Multi-page React applications
+- React Router in action
+- Navigation bar component
+- Home, Child, and GrandChild components
+- Component communication and event handling
+
+### Full-Stack Development with React and Express
+- Full-stack application with React and Express
+- User authentication
+- Creating, editing, and deleting posts
+- Server-side rendering with Express
+- Handling file reading using the `fs` module
+- Promises and asynchronous functions
+- Async/Await syntax
+
+### Advanced React Concepts
+- Lazy loading and code splitting in React
+- Charting component (placeholder)
 ## Daily Work Uploads
 
 In this repository, I will be uploading my daily progress and exercises from the PEP classes. Feel free to explore the code, ask questions, and provide feedback.
@@ -46,7 +72,9 @@ In this repository, I will be uploading my daily progress and exercises from the
 - [Day - 4 : Advanced concepts of React](./Day%20-%2004[16Jan]/)
 - [Day - 5 : Make a simple React App](./Day%20-%2005[18Jan]/)
 - [Day - 6 : Enhanced React App](./Day%20-%2006[19Jan]/)
-- [Day - & : simple React App with Express support](./Day%20-%2007[23Jan]/)
+- [Day - 7 : simple React App with Express support](./Day%20-%2007[23Jan]/)
+- [Day - 8 : learn more about react components](./Day%20-%2008[25Jan]/)
+
 ## How to Use
 
 1. Clone the repository to your local machine.
