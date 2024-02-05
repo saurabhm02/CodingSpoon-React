@@ -75,6 +75,7 @@ In this repository, I will be uploading my daily progress and exercises from the
 - [Day - 7 : simple React App with Express support](./Day%20-%2007[23Jan]/)
 - [Day - 8 : learn more about react components](./Day%20-%2008[25Jan]/)
 - [Day - 9 : Learn about portal and model in react](./Day%20-%2009[26Jan]/)
+- [Day - 10: Learn about react redux store](./Day%20-%2010[1%20Feb]/)
 
 ## How to Use
 
